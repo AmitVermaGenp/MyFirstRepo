@@ -536,6 +536,7 @@ Audit done.
 [INFO] Building jersey-bundles 2.26-b02
 [INFO] ------------------------------------------------------------------------
 [INFO] 
+
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ project ---
 [INFO] Deleting C:\Users\Raghav\Downloads\jersey-2.25.1\jersey-2.25.1\bundles\target
 [INFO] 
@@ -572,9 +573,45 @@ Audit done.
 [INFO] Building jersey-repackaged-guava 2.26-b02
 [INFO] ------------------------------------------------------------------------
 Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.4.3/maven-shade-plugin-2.4.3.pom
-3/9 KB   5/9 KB   8/9 KB   9/9 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.4.3/maven-shade-plugin-2.4.3.pom (9 KB at 0.5 KB/sec)
+3/9 KB   
+5/9 KB   
+8/9 KB   
+9/9 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.4.3/maven-shade-plugin-2.4.3.pom (9 KB at 0.5 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.4.3/maven-shade-plugin-2.4.3.jar
-3/102 KB   5/102 KB   8/102 KB   11/102 KB   13/102 KB   16/102 KB   19/102 KB   21/102 KB   24/102 KB   27/102 KB   29/102 KB   32/102 KB   36/102 KB   40/102 KB   44/102 KB   48/102 KB   52/102 KB   56/102 KB   60/102 KB   64/102 KB   68/102 KB   72/102 KB   76/102 KB   80/102 KB   84/102 KB   88/102 KB   92/102 KB   96/102 KB   100/102 KB   102/102 KB                Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.4.3/maven-shade-plugin-2.4.3.jar (102 KB at 67.9 KB/sec)
+3/102 KB   
+5/102 KB   
+8/102 KB   
+11/102 KB   
+13/102 KB   
+16/102 KB   
+19/102 KB   
+21/102 KB   
+24/102 KB   
+27/102 KB   
+29/102 KB   
+32/102 KB   
+36/102 KB   
+40/102 KB   
+44/102 KB   
+48/102 KB   
+52/102 KB   
+56/102 KB   
+60/102 KB   
+64/102 KB   
+68/102 KB   
+72/102 KB   
+76/102 KB   
+80/102 KB   
+84/102 KB   
+88/102 KB   
+92/102 KB   
+96/102 KB   
+100/102 KB   
+102/102 KB   
+             
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/2.4.3/maven-shade-plugin-2.4.3.jar (102 KB at 67.9 KB/sec)
 [INFO] 
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ jersey-guava ---
 [INFO] Deleting C:\Users\Raghav\Downloads\jersey-2.25.1\jersey-2.25.1\bundles\repackaged\jersey-guava\target
@@ -618,43 +655,221 @@ Classpath: Jar:.,Jar:guava
 [INFO] 
 [INFO] --- maven-shade-plugin:2.4.3:shade (shade-archive) @ jersey-guava ---
 Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
-3/4 KB       4/4 KB            Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom (4 KB at 5.6 KB/sec)
+3/4 KB       
+4/4 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom (4 KB at 5.6 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom
-2/2 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom (2 KB at 3.0 KB/sec)
+2/2 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.2/asm-5.0.2.pom (2 KB at 3.0 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom
-3/6 KB   5/6 KB   6/6 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom (6 KB at 7.6 KB/sec)
+3/6 KB   
+5/6 KB   
+6/6 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.2/asm-parent-5.0.2.pom (6 KB at 7.6 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.pom
-3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.pom (3 KB at 3.1 KB/sec)
+3/3 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.pom (3 KB at 3.1 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.pom
-3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.pom (3 KB at 3.2 KB/sec)
+3/3 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.pom (3 KB at 3.2 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.pom
-3/11 KB   5/11 KB   8/11 KB   11/11 KB   11/11 KB              Downloaded: https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.pom (11 KB at 13.0 KB/sec)
+3/11 KB   
+5/11 KB   
+8/11 KB   
+11/11 KB   
+11/11 KB   
+           
+Downloaded: https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.pom (11 KB at 13.0 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
-2/2 KB              Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom (2 KB at 2.7 KB/sec)
+2/2 KB     
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom (2 KB at 2.7 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
-3/6 KB   5/6 KB   6/6 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom (6 KB at 6.9 KB/sec)
+3/6 KB   
+5/6 KB   
+6/6 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom (6 KB at 6.9 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.pom
-3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.pom (3 KB at 2.8 KB/sec)
+3/3 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.pom (3 KB at 2.8 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.pom
-3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.pom (3 KB at 2.8 KB/sec)
+3/3 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.pom (3 KB at 2.8 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.pom
-3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.pom (3 KB at 2.9 KB/sec)
+3/3 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.pom (3 KB at 2.9 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.pom
-3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.pom (3 KB at 3.1 KB/sec)
+3/3 KB   
+         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.pom (3 KB at 3.1 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.jar
 Downloading: https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.jar
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.jar
-3/52 KB   5/52 KB   8/52 KB   11/52 KB   13/52 KB   16/52 KB   19/52 KB   21/52 KB   24/52 KB   27/52 KB   29/52 KB   32/52 KB   36/52 KB   40/52 KB   44/52 KB   48/52 KB   52/52 KB   52/52 KB              Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar (52 KB at 51.4 KB/sec)
+3/52 KB   
+5/52 KB   
+8/52 KB   
+11/52 KB   
+13/52 KB   
+16/52 KB   
+19/52 KB   
+21/52 KB   
+24/52 KB   
+27/52 KB   
+29/52 KB   
+32/52 KB   
+36/52 KB   
+40/52 KB   
+44/52 KB   
+48/52 KB   
+52/52 KB   
+52/52 KB   
+           
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar (52 KB at 51.4 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar
-4/20 KB    8/20 KB   12/20 KB   16/20 KB   20/20 KB   20/20 KB   3/240 KB   20/20 KB   5/240 KB   20/20 KB   8/240 KB   20/20 KB   8/240 KB   20/20 KB   3/22 KB   11/240 KB   20/20 KB   3/22 KB   13/240 KB   20/20 KB   3/22 KB   13/240 KB   20/20 KB   5/22 KB   13/240 KB   20/20 KB   8/22 KB   13/240 KB   20/20 KB   11/22 KB   13/240 KB   20/20 KB   13/22 KB   13/240 KB   20/20 KB   13/22 KB   3/29 KB   13/240 KB   20/20 KB   13/22 KB   5/29 KB   13/240 KB   20/20 KB   13/22 KB   8/29 KB   13/240 KB   20/20 KB   13/22 KB   11/29 KB   13/240 KB   20/20 KB   3/41 KB   13/22 KB   11/29 KB   13/240 KB   20/20 KB   3/41 KB   13/22 KB   13/29 KB   13/240 KB   20/20 KB   5/41 KB   13/22 KB   13/29 KB   13/240 KB   20/20 KB   8/41 KB   13/22 KB   13/29 KB   13/240 KB   20/20 KB   11/41 KB   13/22 KB   13/29 KB   13/240 KB   20/20 KB   13/41 KB   13/22 KB   13/29 KB   16/240 KB   20/20 KB   13/41 KB   13/22 KB   13/29 KB   16/240 KB   20/20 KB   13/41 KB   16/22 KB   13/29 KB   19/240 KB   20/20 KB   13/41 KB   16/22 KB   13/29 KB   21/240 KB   20/20 KB   13/41 KB   16/22 KB   13/29 KB   21/240 KB   20/20 KB   13/41 KB   16/22 KB   16/29 KB   21/240 KB   20/20 KB   13/41 KB   19/22 KB   16/29 KB   24/240 KB   20/20 KB   13/41 KB   19/22 KB   16/29 KB   24/240 KB   20/20 KB   13/41 KB   21/22 KB   16/29 KB   24/240 KB   20/20 KB   16/41 KB   21/22 KB   16/29 KB   24/240 KB   20/20 KB   16/41 KB   21/22 KB   19/29 KB   27/240 KB   20/20 KB   16/41 KB   21/22 KB   19/29 KB   27/240 KB   20/20 KB   16/41 KB   22/22 KB   19/29 KB   27/240 KB   20/20 KB   16/41 KB   22/22 KB   21/29 KB   27/240 KB   20/20 KB   19/41 KB   22/22 KB   21/29 KB   29/240 KB   20/20 KB   19/41 KB   22/22 KB   21/29 KB   29/240 KB   20/20 KB   19/41 KB   22/22 KB   24/29 KB   29/240 KB   20/20 KB   21/41 KB   22/22 KB   24/29 KB   32/240 KB   20/20 KB   21/41 KB   22/22 KB   24/29 KB   32/240 KB   20/20 KB   21/41 KB   22/22 KB   27/29 KB   32/240 KB   20/20 KB   24/41 KB   22/22 KB   27/29 KB   32/240 KB   20/20 KB   24/41 KB   22/22 KB   29/29 KB   32/240 KB   20/20 KB   27/41 KB   22/22 KB   29/29 KB   32/240 KB   20/20 KB   29/41 KB   22/22 KB   29/29 KB   32/240 KB   20/20 KB   32/41 KB   22/22 KB   29/29 KB   32/240 KB   20/20 KB   36/41 KB   22/22 KB   29/29 KB   32/240 KB   20/20 KB   40/41 KB   22/22 KB   29/29 KB   32/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   36/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   40/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   44/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   48/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   52/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   56/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   60/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   64/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   68/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   72/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   76/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   80/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   84/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   88/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   92/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   96/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   100/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   104/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   108/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   112/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB                                                            Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar (20 KB at 7.8 KB/sec)
+4/20 KB    
+8/20 KB   
+12/20 KB   
+16/20 KB   
+20/20 KB   
+20/20 KB   
+3/240 KB   20/20 KB   
+5/240 KB   20/20 KB   
+8/240 KB   20/20 KB   
+8/240 KB   20/20 KB   3/22 KB   
+11/240 KB   20/20 KB   3/22 KB   
+13/240 KB   20/20 KB   3/22 KB   
+13/240 KB   20/20 KB   5/22 KB   
+13/240 KB   20/20 KB   8/22 KB   
+13/240 KB   20/20 KB   11/22 KB   
+13/240 KB   20/20 KB   13/22 KB   
+13/240 KB   20/20 KB   13/22 KB   3/29 KB   
+13/240 KB   20/20 KB   13/22 KB   5/29 KB   
+13/240 KB   20/20 KB   13/22 KB   8/29 KB   
+13/240 KB   20/20 KB   13/22 KB   11/29 KB   
+13/240 KB   20/20 KB   3/41 KB   13/22 KB   11/29 KB   
+13/240 KB   20/20 KB   3/41 KB   13/22 KB   13/29 KB   
+13/240 KB   20/20 KB   5/41 KB   13/22 KB   13/29 KB   
+13/240 KB   20/20 KB   8/41 KB   13/22 KB   13/29 KB   
+13/240 KB   20/20 KB   11/41 KB   13/22 KB   13/29 KB   
+13/240 KB   20/20 KB   13/41 KB   13/22 KB   13/29 KB   
+16/240 KB   20/20 KB   13/41 KB   13/22 KB   13/29 KB   
+16/240 KB   20/20 KB   13/41 KB   16/22 KB   13/29 KB   
+19/240 KB   20/20 KB   13/41 KB   16/22 KB   13/29 KB   
+21/240 KB   20/20 KB   13/41 KB   16/22 KB   13/29 KB   
+21/240 KB   20/20 KB   13/41 KB   16/22 KB   16/29 KB   
+21/240 KB   20/20 KB   13/41 KB   19/22 KB   16/29 KB   
+24/240 KB   20/20 KB   13/41 KB   19/22 KB   16/29 KB   
+24/240 KB   20/20 KB   13/41 KB   21/22 KB   16/29 KB   
+24/240 KB   20/20 KB   16/41 KB   21/22 KB   16/29 KB   
+24/240 KB   20/20 KB   16/41 KB   21/22 KB   19/29 KB   
+27/240 KB   20/20 KB   16/41 KB   21/22 KB   19/29 KB   
+27/240 KB   20/20 KB   16/41 KB   22/22 KB   19/29 KB   
+27/240 KB   20/20 KB   16/41 KB   22/22 KB   21/29 KB   
+27/240 KB   20/20 KB   19/41 KB   22/22 KB   21/29 KB   
+29/240 KB   20/20 KB   19/41 KB   22/22 KB   21/29 KB   
+29/240 KB   20/20 KB   19/41 KB   22/22 KB   24/29 KB   
+29/240 KB   20/20 KB   21/41 KB   22/22 KB   24/29 KB   
+32/240 KB   20/20 KB   21/41 KB   22/22 KB   24/29 KB   
+32/240 KB   20/20 KB   21/41 KB   22/22 KB   27/29 KB   
+32/240 KB   20/20 KB   24/41 KB   22/22 KB   27/29 KB   
+32/240 KB   20/20 KB   24/41 KB   22/22 KB   29/29 KB   
+32/240 KB   20/20 KB   27/41 KB   22/22 KB   29/29 KB   
+32/240 KB   20/20 KB   29/41 KB   22/22 KB   29/29 KB   
+32/240 KB   20/20 KB   32/41 KB   22/22 KB   29/29 KB   
+32/240 KB   20/20 KB   36/41 KB   22/22 KB   29/29 KB   
+32/240 KB   20/20 KB   40/41 KB   22/22 KB   29/29 KB   
+32/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+36/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+40/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+44/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+48/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+52/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+56/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+60/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+64/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+68/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+72/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+76/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+80/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+84/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+88/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+92/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+96/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+100/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+104/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+108/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+112/240 KB   20/20 KB   41/41 KB   22/22 KB   29/29 KB   
+                                                         
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar (20 KB at 7.8 KB/sec)
 Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.jar
-116/240 KB   41/41 KB   22/22 KB   29/29 KB              120/240 KB   41/41 KB   22/22 KB   29/29 KB   124/240 KB   41/41 KB   22/22 KB   29/29 KB   128/240 KB   41/41 KB   22/22 KB   29/29 KB   132/240 KB   41/41 KB   22/22 KB   29/29 KB   136/240 KB   41/41 KB   22/22 KB   29/29 KB   140/240 KB   41/41 KB   22/22 KB   29/29 KB   144/240 KB   41/41 KB   22/22 KB   29/29 KB   148/240 KB   41/41 KB   22/22 KB   29/29 KB   152/240 KB   41/41 KB   22/22 KB   29/29 KB   156/240 KB   41/41 KB   22/22 KB   29/29 KB   160/240 KB   41/41 KB   22/22 KB   29/29 KB   160/240 KB   41/41 KB   3/43 KB   22/22 KB   29/29 KB   160/240 KB   41/41 KB   5/43 KB   22/22 KB   29/29 KB   160/240 KB   41/41 KB   8/43 KB   22/22 KB   29/29 KB   160/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   164/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   168/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   172/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   176/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   176/240 KB   41/41 KB   13/43 KB   22/22 KB   29/29 KB   176/240 KB   41/41 KB   16/43 KB   22/22 KB   29/29 KB   176/240 KB   41/41 KB   19/43 KB   22/22 KB   29/29 KB   176/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   180/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   184/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   188/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   192/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   192/240 KB   41/41 KB   24/43 KB   22/22 KB   29/29 KB   192/240 KB   41/41 KB   27/43 KB   22/22 KB   29/29 KB                                                            Downloaded: https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.jar (22 KB at 7.2 KB/sec)
-192/240 KB   41/41 KB   29/43 KB   29/29 KB              192/240 KB   41/41 KB   32/43 KB   29/29 KB   196/240 KB   41/41 KB   32/43 KB   29/29 KB   200/240 KB   41/41 KB   32/43 KB   29/29 KB   204/240 KB   41/41 KB   32/43 KB   29/29 KB   208/240 KB   41/41 KB   32/43 KB   29/29 KB                                                 Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.jar (41 KB at 13.4 KB/sec)
-                                              Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.jar (29 KB at 9.3 KB/sec)
-212/240 KB   32/43 KB                         216/240 KB   32/43 KB   220/240 KB   32/43 KB   224/240 KB   32/43 KB   224/240 KB   36/43 KB   224/240 KB   40/43 KB   224/240 KB   43/43 KB   228/240 KB   43/43 KB   232/240 KB   43/43 KB   236/240 KB   43/43 KB   240/240 KB   43/43 KB                           Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar (240 KB at 65.7 KB/sec)
-                        Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.jar (43 KB at 10.7 KB/sec)
+116/240 KB   41/41 KB   22/22 KB   29/29 KB              
+120/240 KB   41/41 KB   22/22 KB   29/29 KB   
+124/240 KB   41/41 KB   22/22 KB   29/29 KB   
+128/240 KB   41/41 KB   22/22 KB   29/29 KB   
+132/240 KB   41/41 KB   22/22 KB   29/29 KB   
+136/240 KB   41/41 KB   22/22 KB   29/29 KB   
+140/240 KB   41/41 KB   22/22 KB   29/29 KB   
+144/240 KB   41/41 KB   22/22 KB   29/29 KB   
+148/240 KB   41/41 KB   22/22 KB   29/29 KB   
+152/240 KB   41/41 KB   22/22 KB   29/29 KB   
+156/240 KB   41/41 KB   22/22 KB   29/29 KB   
+160/240 KB   41/41 KB   22/22 KB   29/29 KB   
+160/240 KB   41/41 KB   3/43 KB   22/22 KB   29/29 KB   
+160/240 KB   41/41 KB   5/43 KB   22/22 KB   29/29 KB   
+160/240 KB   41/41 KB   8/43 KB   22/22 KB   29/29 KB   
+160/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   
+164/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   
+168/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   
+172/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   
+176/240 KB   41/41 KB   11/43 KB   22/22 KB   29/29 KB   
+176/240 KB   41/41 KB   13/43 KB   22/22 KB   29/29 KB   
+176/240 KB   41/41 KB   16/43 KB   22/22 KB   29/29 KB   
+176/240 KB   41/41 KB   19/43 KB   22/22 KB   29/29 KB   
+176/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   
+180/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   
+184/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   
+188/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   
+192/240 KB   41/41 KB   21/43 KB   22/22 KB   29/29 KB   
+192/240 KB   41/41 KB   24/43 KB   22/22 KB   29/29 KB   
+192/240 KB   41/41 KB   27/43 KB   22/22 KB   29/29 KB   
+                                                         
+Downloaded: https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.jar (22 KB at 7.2 KB/sec)
+192/240 KB   41/41 KB   29/43 KB   29/29 KB              
+192/240 KB   41/41 KB   32/43 KB   29/29 KB   
+196/240 KB   41/41 KB   32/43 KB   29/29 KB   
+200/240 KB   41/41 KB   32/43 KB   29/29 KB   
+204/240 KB   41/41 KB   32/43 KB   29/29 KB   
+208/240 KB   41/41 KB   32/43 KB   29/29 KB   
+                                              
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.jar (41 KB at 13.4 KB/sec)
+                                              
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.jar (29 KB at 9.3 KB/sec)
+212/240 KB   32/43 KB                         
+216/240 KB   32/43 KB   
+220/240 KB   32/43 KB   
+224/240 KB   32/43 KB   
+224/240 KB   36/43 KB   
+224/240 KB   40/43 KB   
+224/240 KB   43/43 KB   
+228/240 KB   43/43 KB   
+232/240 KB   43/43 KB   
+236/240 KB   43/43 KB   
+240/240 KB   43/43 KB   
+                        
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar (240 KB at 65.7 KB/sec)
+                        
+Downloaded: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.jar (43 KB at 10.7 KB/sec)
 [INFO] Including com.google.guava:guava:jar:18.0 in the shaded jar.
 [INFO] Replacing original artifact with shaded artifact.
 [INFO] Replacing C:\Users\Raghav\Downloads\jersey-2.25.1\jersey-2.25.1\bundles\repackaged\jersey-guava\target\jersey-guava-2.26-b02.jar with C:\Users\Raghav\Downloads\jersey-2.25.1\jersey-2.25.1\bundles\repackaged\jersey-guava\target\jersey-guava-2.26-b02-shaded.jar
@@ -683,9 +898,52 @@ Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm
 [INFO] Building jersey-core-common 2.26-b02
 [INFO] ------------------------------------------------------------------------
 Downloading: https://maven.java.net/content/repositories/releases/javax/ws/rs/javax.ws.rs-api/2.1-m03/javax.ws.rs-api-2.1-m03.pom
-4/24 KB                 8/24 KB   12/24 KB   12/24 KB   16/24 KB   20/24 KB   24/24 KB              Downloaded: https://maven.java.net/content/repositories/releases/javax/ws/rs/javax.ws.rs-api/2.1-m03/javax.ws.rs-api-2.1-m03.pom (24 KB at 6.5 KB/sec)
+4/24 KB                 
+8/24 KB   
+12/24 KB   
+12/24 KB   
+16/24 KB   
+20/24 KB   
+24/24 KB   
+           
+Downloaded: https://maven.java.net/content/repositories/releases/javax/ws/rs/javax.ws.rs-api/2.1-m03/javax.ws.rs-api-2.1-m03.pom (24 KB at 6.5 KB/sec)
 Downloading: https://maven.java.net/content/repositories/releases/javax/ws/rs/javax.ws.rs-api/2.1-m03/javax.ws.rs-api-2.1-m03.jar
-4/129 KB   8/129 KB   12/129 KB   12/129 KB   16/129 KB   20/129 KB   24/129 KB   28/129 KB   30/129 KB   34/129 KB   38/129 KB   41/129 KB   45/129 KB   49/129 KB   53/129 KB   57/129 KB   61/129 KB   65/129 KB   69/129 KB   73/129 KB   77/129 KB   81/129 KB   85/129 KB   89/129 KB   93/129 KB   97/129 KB   101/129 KB   105/129 KB   109/129 KB   113/129 KB   117/129 KB   121/129 KB   125/129 KB   129/129 KB                Downloaded: https://maven.java.net/content/repositories/releases/javax/ws/rs/javax.ws.rs-api/2.1-m03/javax.ws.rs-api-2.1-m03.jar (129 KB at 75.2 KB/sec)
+4/129 KB   
+8/129 KB   
+12/129 KB   
+12/129 KB   
+16/129 KB   
+20/129 KB   
+24/129 KB   
+28/129 KB   
+30/129 KB   
+34/129 KB   
+38/129 KB   
+41/129 KB   
+45/129 KB   
+49/129 KB   
+53/129 KB   
+57/129 KB   
+61/129 KB   
+65/129 KB   
+69/129 KB   
+73/129 KB   
+77/129 KB   
+81/129 KB   
+85/129 KB   
+89/129 KB   
+93/129 KB   
+97/129 KB   
+101/129 KB   
+105/129 KB   
+109/129 KB   
+113/129 KB   
+117/129 KB   
+121/129 KB   
+125/129 KB   
+129/129 KB   
+             
+Downloaded: https://maven.java.net/content/repositories/releases/javax/ws/rs/javax.ws.rs-api/2.1-m03/javax.ws.rs-api-2.1-m03.jar (129 KB at 75.2 KB/sec)
 [INFO] 
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ jersey-common ---
 [INFO] Deleting C:\Users\Raghav\Downloads\jersey-2.25.1\jersey-2.25.1\core-common\target
